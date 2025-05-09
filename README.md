@@ -24,3 +24,9 @@ API
 (memcached) -> Предостваить статистику испольщования памяти
 (memcached) -> Предостваить статистику датчиков
 (memcached) -> Предостваить статистику хелс-чеков
+
+
+Сигнатура таблицы с ссылками
+
+|          LINK          |           STATUS                                   |            MSG                                     |
+| http://youtube.com...  | NEW/PREPARED/DOWNLOAD/DOWNLOADED/MOVE/DONE(ERROR)  | ''/CONFIGURATION/PROGRESS/PROGRESS/DONE(error msg) |
